@@ -1,0 +1,14 @@
+**Database Name: online-leave-application**
+
+**Developed by Ishuaariyaa Krishnan**
+
+**Admin Login Details**
+
+Username: admin
+Password: root
+
+**User Login Detail**
+      <-----first signup----->
+      
+Username:ishu
+Password:ishu@123
